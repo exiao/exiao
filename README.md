@@ -15,7 +15,6 @@ I'm the founder of [Bloom](https://investwithbloom.com), an AI investing app wit
 - **[openclaw-phoenix-otel](https://github.com/exiao/openclaw-phoenix-otel)** ⭐ 2 · Plugin that exports full agent traces to Phoenix (Arize) via OpenTelemetry
 - **[copilot-money-cli](https://github.com/exiao/copilot-money-cli)** · CLI for Copilot Money (unofficial)
 - **[investingskills](https://github.com/exiao/investingskills)** · Claude skills for investing research, portfolio management, and trading
-- **[password-gate](https://github.com/exiao/password-gate)** · Password-gate any site with a single static HTML file
 
 ## ✍️ Writing (my crystal ball)
 
