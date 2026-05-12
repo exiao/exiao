@@ -20,7 +20,7 @@ I'm the founder of [Bloom](https://investwithbloom.com), an AI investing app wit
 
 | Date | Post |
 | --- | --- |
-| Feb 2025 | [**The Wow Moment with OpenClaw**](https://mycrystalball.substack.com/p/the-wow-moment-with-openclaw) |
+| Feb 2026 | [**The Wow Moment with OpenClaw**](https://mycrystalball.substack.com/p/the-wow-moment-with-openclaw) |
 | Jan 2024 | [**Reimagining stock research with Bloom**](https://mycrystalball.substack.com/p/reimagining-stock-research-with-bloom) |
 | Aug 2023 | [**Recruiting with robots**](https://mycrystalball.substack.com/p/recruiting-with-robots) |
 | Jul 2023 | [**Applying gambling theory to investing in practice**](https://mycrystalball.substack.com/p/applying-gambling-theory-to-investing-in-practice) |
