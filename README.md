@@ -1,6 +1,6 @@
 # Hi, I'm Eric 👋
 
-I'm the founder of [Bloom](https://investwithbloom.com), an AI investing app with 100K+ downloads that watches 500+ stocks so you don't have to. Previously 12+ years building products at companies like Apple (patent holder, AI shopping assistant). UC Berkeley engineering. Based in NYC.
+I'm the founder of [Bloom](https://investwithbloom.com), an AI investing app with 100K+ downloads that watches 500+ stocks so you don't have to. Previously 12+ years building products, and a patent holder of an AI shopping assistant. UC Berkeley engineering. Based in NYC.
 
 ## What I'm working on
 
