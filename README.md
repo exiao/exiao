@@ -1,10 +1,10 @@
 # Hi, I'm Eric 👋
 
-I'm the founder of [Bloom](https://investwithbloom.com), an AI investing app with 100K+ downloads that watches 500+ stocks so you don't have to. Previously 12+ years building products, and a patent holder of an AI shopping assistant. UC Berkeley engineering. Based in NYC.
+I'm the founder of [Bloom](https://investwithbloom.com), an AI investing app with 100K+ downloads that watches 500+ stocks so you don't have to. Previously 12+ years building products, and a patent holder of an AI shopping assistant. 
 
 ## What I'm working on
 
-**Bloom** — AI-powered investing app. ~$3K MRR and growing. The bet is that AI watching every stock, every day, compounds into something no human can replicate. [App Store](https://apps.apple.com/app/id1436348671)
+**Bloom** — AI-powered investing app. ~$3K MRR and growing. [App Store](https://apps.apple.com/app/id1436348671)
 
 **Claude Code for Product Managers** — Maven course I co-teach with [Aman Khan](https://github.com/amanaiproduct). Helping PMs ship real products with AI coding tools. ⭐ 5.0/5
 
